@@ -64,13 +64,14 @@ img{
 }
 .btn-light {
     border-color: #000;
-    color: #000;
+    color: #1e3932;
+    letter-spacing: 0.5px;
 }
 .btn {
     cursor: pointer;
     display: inline-block;
     background: none;
-    border: 1px #000 solid;
+    border: 1px #1e3932 solid;
     border-radius: 50px;
     padding: 7px 16px;
     line-height: 1.2;
@@ -117,4 +118,5 @@ img{
 p {
     margin: 5px 0;
     line-height: 1.7;
+    letter-spacing: -0.16px;
 }
